@@ -1,1 +1,1 @@
-The Main file needed is RoboticArm.py because the other files are not rewuired but there is no issue if you download that.
+The Main file needed is RoboticArm.py because the other files are not rewuired but there is no issue if you download that.Download the roboticarm.ino and RoboticArm.py and in the pythn file specify the COM Port.
